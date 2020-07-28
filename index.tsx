@@ -24,13 +24,21 @@ const App = () => {
           margin:0px;
         }
         .example-container{
-          width:650px;
-          margin:0 auto;
-          padding: 20px;
-          border-left: 1px solid #eee;
-          border-right: 1px solid #eee;
+          width: 96%;
+          margin: 2%;
           min-height: 100vh;
-        }`}
+        }
+        @media screen and (min-width:1000px){
+          .example-container{
+            width:650px;
+            margin:0 auto;
+            padding: 20px;
+            border-left: 1px solid #eee;
+            border-right: 1px solid #eee;
+            min-height: 100vh;
+          }
+        }
+        `}
       </style>
     </div>
   );
