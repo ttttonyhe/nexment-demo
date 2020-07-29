@@ -5,6 +5,7 @@ import { NexmentContainer } from "nexment";
 
 const App = () => {
   const config = {
+    pageKey: 'demoPage',
     leancloud: {
       appId: "6Kcb9HB1iOR87HUbAvnMyUER-gzGzoHsz",
       appKey: "zf3gAf9CGIHLL8Crctb0sJLV",
