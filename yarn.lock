@@ -5655,10 +5655,10 @@ nested-property@1.0.1:
   resolved "https://registry.npm.taobao.org/nested-property/download/nested-property-1.0.1.tgz#2001105b5c69413411b876bba9b86f4316af613f"
   integrity sha1-IAEQW1xpQTQRuHa7qbhvQxavYT8=
 
-nexment@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.npm.taobao.org/nexment/download/nexment-0.0.4.tgz#f83c8c9d3d6fb8c5263c9283820d50f2e55d32d0"
-  integrity sha1-+DyMnT1vuMUmPJKDgg1Q8uVdMtA=
+nexment@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.npm.taobao.org/nexment/download/nexment-0.0.5.tgz?cache=0&sync_timestamp=1596082737942&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnexment%2Fdownload%2Fnexment-0.0.5.tgz#ed0a775d782e14cf9fa17123d0b1c325a934e77f"
+  integrity sha1-7Qp3XXguFM+foXEj0LHDJak0538=
   dependencies:
     "@types/react" "^16.9.43"
     "@types/react-dom" "^16.9.8"
@@ -5673,6 +5673,7 @@ nexment@^0.0.4:
     react-content-loader "^5.1.0"
     react-dom "^16.13.1"
     react-floater "^0.7.2"
+    react-ridge-translations "^1.0.0"
     react-showdown "^2.1.0"
     react-textarea-autosize "^8.2.0"
     react-tiny-popover "^5.1.0"
@@ -6981,6 +6982,11 @@ react-proptype-conditional-require@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/react-proptype-conditional-require/download/react-proptype-conditional-require-1.0.4.tgz#69c2d5741e6df5e08f230f36bbc2944ee1222555"
   integrity sha1-acLVdB5t9eCPIw82u8KUTuEiJVU=
+
+react-ridge-translations@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/react-ridge-translations/download/react-ridge-translations-1.0.0.tgz#50b49d8756f65eef03ac3c78b0eab958949984c1"
+  integrity sha1-ULSdh1b2Xu8DrDx4sOq5WJSZhME=
 
 react-showdown@^2.1.0:
   version "2.1.0"
