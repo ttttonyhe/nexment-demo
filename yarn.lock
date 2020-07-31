@@ -5655,10 +5655,10 @@ nested-property@1.0.1:
   resolved "https://registry.npm.taobao.org/nested-property/download/nested-property-1.0.1.tgz#2001105b5c69413411b876bba9b86f4316af613f"
   integrity sha1-IAEQW1xpQTQRuHa7qbhvQxavYT8=
 
-nexment@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.npm.taobao.org/nexment/download/nexment-0.0.5.tgz?cache=0&sync_timestamp=1596082737942&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnexment%2Fdownload%2Fnexment-0.0.5.tgz#ed0a775d782e14cf9fa17123d0b1c325a934e77f"
-  integrity sha1-7Qp3XXguFM+foXEj0LHDJak0538=
+nexment@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/nexment/-/nexment-0.0.6.tgz#86f63954effd5f3178385ca36094e941640a7a4b"
+  integrity sha512-s2N6KN2N5vrGO6j2BY22iqO0OqYiv3yRLPNER9e++3KBkzR/sh/4lMPqWBV9AtZDxgZI2t9DynEDG74xAyRLsA==
   dependencies:
     "@types/react" "^16.9.43"
     "@types/react-dom" "^16.9.8"
