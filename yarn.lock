@@ -3730,10 +3730,10 @@ nested-property@1.0.1:
   resolved "https://registry.npmjs.org/nested-property/-/nested-property-1.0.1.tgz#2001105b5c69413411b876bba9b86f4316af613f"
   integrity sha512-BnBBoo/8bBNRdAnJc7+m79oWk7dXwW1+vCesaEQhfDGVwXGLMvmI4NwYgLTW94R/x+R2s/yr2g/hB/4w/YSAvA==
 
-nexment@0.0.642:
-  version "0.0.642"
-  resolved "https://registry.npmjs.org/nexment/-/nexment-0.0.642.tgz#ba24bf4ad3e767b5d0a694c3cd8f74ec408e17a2"
-  integrity sha512-skAYt1QE8pIAspXMeMifGGM0X+jbQvndWmD7r205QlemeMKd0iaXUxJ6XSFV72/KnTIDO4L79T/FRjWXCAo7fA==
+nexment@^0.0.65:
+  version "0.0.65"
+  resolved "https://registry.npmjs.org/nexment/-/nexment-0.0.65.tgz#545183165b9281a9fab6b2eb829d5ee2195295c6"
+  integrity sha512-M3ET2NCY0axGmFKZYV/tJlWRbkBP6IjeRWpGMhI/FQWMeWklJOrfdW1FF9pRAy4OE2iTXl8WA7EJfyfSCC8JAw==
   dependencies:
     components "^0.1.0"
     github-markdown-css "^4.0.0"
