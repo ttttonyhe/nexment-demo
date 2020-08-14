@@ -11,12 +11,15 @@
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.0",
     "react-dom": "^16.13.1",
-    "scheduler": "^0.19.1"
+    "react-tiny-popover": "^5.1.0",
+    "scheduler": "^0.19.1",
+    "swr": "^0.3.0",
+    "unfetch": "^4.1.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.11",
     "@types/react-dom": "^16.8.4",
-    "nexment": "^0.0.63",
+    "nexment": "0.0.642",
     "parcel": "^1.12.3",
     "typescript": "^3.4.5"
   }
