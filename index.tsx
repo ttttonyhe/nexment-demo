@@ -25,7 +25,7 @@ const App = () => {
           <h1>Nexment</h1>
         </div>
         <div>
-          <a href="https://nexment-demo.ouorz.com" target="_blank">
+          <a href="https://nexment-vue-demo.ouorz.com" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
@@ -40,7 +40,7 @@ const App = () => {
               />
             </svg>
           </a>
-          <a href="https://github.com/HelipengTony/nexment-vue" target="_blank">
+          <a href="https://github.com/HelipengTony/nexment" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
