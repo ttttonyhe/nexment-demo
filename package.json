@@ -7,7 +7,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "nexment": "^0.0.67",
+    "nexment": "^0.0.652",
     "react": "^18.2.0",
     "react-app-polyfill": "^3.0.0",
     "react-dom": "^18.2.0",
