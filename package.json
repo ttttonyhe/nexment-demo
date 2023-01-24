@@ -1,6 +1,7 @@
 {
   "name": "nexment_example",
   "version": "0.0.1",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html",
@@ -8,13 +9,9 @@
   },
   "dependencies": {
     "nexment": "^0.0.652",
-    "react": "^18.2.0",
-    "react-app-polyfill": "^3.0.0",
-    "react-dom": "^18.2.0",
-    "react-tiny-popover": "^7.2.0",
-    "scheduler": "^0.23.0",
-    "swr": "^2.0.1",
-    "unfetch": "^5.0.0"
+    "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.0",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
