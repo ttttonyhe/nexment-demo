@@ -8624,7 +8624,7 @@ __metadata:
 
 "typescript@patch:typescript@^3.4.5#~builtin<compat/typescript>, typescript@patch:typescript@^3.9.7#~builtin<compat/typescript>":
   version: 3.9.10
-  resolution: "typescript@patch:typescript@npm%3A3.9.10#~builtin<compat/typescript>::version=3.9.10&hash=701156"
+  resolution: "typescript@patch:typescript@npm%3A3.9.10#~builtin<compat/typescript>::version=3.9.10&hash=a1c5e5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -8671,9 +8671,9 @@ __metadata:
   linkType: hard
 
 "underscore@npm:^1.8.3":
-  version: 1.10.2
-  resolution: "underscore@npm:1.10.2"
-  checksum: 199ee8d97258458273ee8b9f5ce5368c3669646ef4c50766fe5a2d12b9b22ce58a78e278d8fb79ceb9618041ee14dc6780ba9a563bd700f1b10c080668ded6ea
+  version: 1.13.6
+  resolution: "underscore@npm:1.13.6"
+  checksum: d5cedd14a9d0d91dd38c1ce6169e4455bb931f0aaf354108e47bd46d3f2da7464d49b2171a5cf786d61963204a42d01ea1332a903b7342ad428deaafaf70ec36
   languageName: node
   linkType: hard
 
