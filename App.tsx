@@ -1,13 +1,14 @@
-import "react-app-polyfill/ie11";
-import * as React from "react";
-import * as ReactDOM from "react-dom";
 import Nexment from "nexment";
 
 const App = () => {
 	const config = {
 		pageKey: "demoPage",
-		enableLinkInput: true,
-		enableReplyListModal: false,
+		features: {
+			linkInput: true,
+			replyListModal: true,
+			replyEmailNotifications: true,
+			descriptionTag: true,
+		},
 		leancloud: {
 			appId: "6Kcb9HB1iOR87HUbAvnMyUER-gzGzoHsz",
 			appKey: "zf3gAf9CGIHLL8Crctb0sJLV",
@@ -70,6 +71,8 @@ const App = () => {
           width: 96%;
           margin: 2%;
           min-height: 100vh;
+          background: #ffffff;
+          font-family: sans-serif;
         }
         @media screen and (min-width:1000px){
           .example-container{
@@ -159,10 +162,13 @@ const App = () => {
         .nexment-div {
           padding: 0 8px;
         }
+        textarea {
+          font-size: 13.5px;
+        }
         `}
 			</style>
 		</div>
 	);
 };
 
-ReactDOM.render(<App />, document.getElementById("root"));
+export default App;
