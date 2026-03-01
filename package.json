@@ -8,7 +8,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "nexment": "^0.0.688",
+    "nexment": "^0.0.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
